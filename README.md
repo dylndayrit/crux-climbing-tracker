@@ -2,7 +2,7 @@
 
 A React front-end for managing climbing gyms, routes, and ratings. Built with Vite and designed with a warm, earthy aesthetic — cream parchment backgrounds, terracotta accents, and Helvetica typography.
 
-Connects to a locally hosted REST API running on `http://localhost:3000`.
+Connects to a locally hosted REST [API](https://github.com/dylndayrit/climber-api.git) running on `http://localhost:3000`.
 
 ## Features
 
